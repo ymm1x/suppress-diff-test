@@ -1,0 +1,3 @@
+*.json linguist-generated
+specific_name.txt linguist-generated
+not_autogen* linguist-generated=false
